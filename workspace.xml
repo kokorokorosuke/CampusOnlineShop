@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ba9eb84-d077-4cec-a611-49389dbef156" name="变更" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/apache-maven-3.8.7" />
+        <option name="userSettingsFile" value="D:\java\apache-maven-3.8.7\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YcUOvfVNIQe75NXOsM9U46aYrQ" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;ToolWindow运行.ShowToolbar&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/VUE项目工程/campus-online-shop-view&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;E:/java/NodeJs/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;E:\\java\\NodeJs\\npm.cmd&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\VUE项目工程\campus-online-shop-view\src\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\VUE项目工程\campus-online-shop-view\public" />
+      <recent name="E:\VUE项目工程\campus-online-shop-view\src\views" />
+      <recent name="E:\VUE项目工程\campus-online-shop-view\src\views\users" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="serve" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="serve" />
+      </scripts>
+      <node-interpreter value="$PROJECT_DIR$/../../java/NodeJs/node" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="9ba9eb84-d077-4cec-a611-49389dbef156" name="变更" comment="" />
+      <created>1700824332768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700824332768</updated>
+      <workItem from="1700824343870" duration="1132000" />
+      <workItem from="1700825494973" duration="49000" />
+      <workItem from="1700825550193" duration="10340000" />
+      <workItem from="1700900909477" duration="8795000" />
+      <workItem from="1701849415663" duration="11110000" />
+      <workItem from="1701930721778" duration="10734000" />
+      <workItem from="1701964366168" duration="542000" />
+      <workItem from="1702020107649" duration="1838000" />
+      <workItem from="1702026491332" duration="931000" />
+      <workItem from="1702027843344" duration="2573000" />
+      <workItem from="1702039181948" duration="3176000" />
+      <workItem from="1702128466526" duration="3460000" />
+      <workItem from="1702197502065" duration="615000" />
+      <workItem from="1702201262289" duration="13752000" />
+      <workItem from="1702277138945" duration="22644000" />
+      <workItem from="1702378527186" duration="11463000" />
+      <workItem from="1702436401254" duration="1212000" />
+      <workItem from="1702453576176" duration="86000" />
+      <workItem from="1702453691084" duration="5305000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
